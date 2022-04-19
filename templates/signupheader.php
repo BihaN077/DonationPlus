@@ -37,6 +37,7 @@ form{
         <div class="container">
             <a href="index.php" class="brand-logo brand-text"><b>DonationPlus</b></a>
             <ul id="nav-mobile" class="right hide-on-small-and-down">
+                <li class="black-text">Already have an account?</li>
                 <li><a href="login.php" class="btn brand z-depth-0">Sign In</a>
                 </li>
             </ul>
